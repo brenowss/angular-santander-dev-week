@@ -27,13 +27,7 @@
       alt="GitHub license" 
       src="https://img.shields.io/github/license/felipeAguiarCode/angular-santander-home-clone?color=E31918"
     >
-  </p> 
-
-<div align="center">
-  	<a href="#">
-      <img src=".github/assets/preview.png" width="400" alt="preview" />
-  	</a>
-</div>
+  </p>
 
   <!-- project description and menu -->
   <p align="center">
@@ -43,30 +37,18 @@
       href="## Usage">
       <strong>Navigate Live Demo Now »</strong>
     </a>
-    <br />
-    <br />
-    <a 
-      href="https://github.com/felipeAguiarCode/
-		angular-santander-home-clone/issues">
-      Report Bug
-    </a>
-    ·
-    <a 
-      href="https://github.com/felipeAguiarCode/
-			angular-santander-home-clone/issues/new">
-      Request Feature
-    </a>
   </p>
 </div>
 
 ## Features
+
 - [x] Fully Component With Angular
 
 ## Technologies & Techniques
 
 This project was developed with the following technologies:
--   [Angular](https://angular.io)
 
+- [Angular](https://angular.io)
 
 ## Building
 
@@ -74,7 +56,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Usage
 
-📦 1. Install dependencys
+📦 1. Install dependencies
 
 ```bash
 $ npm install
@@ -83,7 +65,7 @@ $ npm install
 📁 2. Change Directory
 
 ```bash
-$ cd santander-client
+$ cd angular-santander-dev-week
 ```
 
 🔧 3. Run the script
@@ -94,17 +76,8 @@ $ ng serve
 
 🌐 4. Navigate to
 
-```bash 
+```bash
  http://localhost:4200/
 ```
+
 Runs the app in the development mode.<br/>
-
-## Autor
-
-| [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
-| :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [Linkedin](www.linkedin.com/in/felipe-aguiar-exe)                                             |
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
