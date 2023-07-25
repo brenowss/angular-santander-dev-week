@@ -1,0 +1,26 @@
+<div class="card-container shadow-box">
+	<div class="card-logo">
+		<app-logo-white logoWidth="120" />
+	</div>
+
+	<div class="card-middle">
+		<img src="../../../assets/chip.png" alt="Chip" width="60px">
+
+		<div>
+			<p>XXXX</p>
+			<p>XXXX</p>
+			<p>XXXX</p>
+			<p>1111</p>
+		</div>
+	</div>
+
+	<div class="card-footer">
+		<p>Olá, {{accountData.name}}</p>
+		<p>Ag {{accountData.account.agency}}</p>
+		<p>CC {{accountData.account.number}}</p>
+	</div>
+
+	<div class="card-limit">
+		<p>Limite: {{formattedCardLimit}}</p>
+	</div>
+</div>

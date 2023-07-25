@@ -1,0 +1,16 @@
+<div class="amount-box-container shadow-box">
+	<div class="amount-title">
+		<app-money-icon />
+		<p>Saldo disponível</p>
+	</div>
+
+	<div class="amount-card-middle">
+		<p id="amount-value">
+			{{accountDetails.formattedAmountValue}}
+		</p>
+		<div id="divider"></div>
+		<div id="amount-total">
+			Saldo + Limite: {{accountDetails.formattedTotalAmount}}
+		</div>
+	</div>
+</div>
